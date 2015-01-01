@@ -4,6 +4,12 @@ return array(
     'modules' => array(
         'Application',
 		'Album',
+		'DoctrineModule',
+		'DoctrineORMModule',
+		'CsnUser',
+		'CsnAuthorization',
+		'CsnAclNavigation',
+		'CsnCms',
     ),
 
     // These are various options for the listeners attached to the ModuleManager

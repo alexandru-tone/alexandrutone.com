@@ -9,6 +9,12 @@
     "homepage": "http://framework.zend.com/",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "2.3.*"
-    }
+        "zendframework/zendframework": "2.3.*",
+        "coolcsn/csn-user": "0.1.0.",
+        "doctrine/doctrine-orm-module": "0.*",
+        "coolcsn/csn-authorization": "dev-master",
+        "coolcsn/csn-acl-navigation": "dev-master",
+        "coolcsn/csn-cms": "dev-master"
+    },
+	"minimum-stability": "dev"
 }
